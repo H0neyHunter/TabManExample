@@ -20,6 +20,7 @@
 		30BBE9412B15D503009A15B9 /* Example2VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BBE9402B15D503009A15B9 /* Example2VC.swift */; };
 		30BBE9432B15D50E009A15B9 /* Example3VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BBE9422B15D50E009A15B9 /* Example3VC.swift */; };
 		30BBE9452B15DA17009A15B9 /* TabManTC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BBE9442B15DA17009A15B9 /* TabManTC.swift */; };
+		30BBE9472B15DF64009A15B9 /* TabItem3VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30BBE9462B15DF64009A15B9 /* TabItem3VC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		30BBE9402B15D503009A15B9 /* Example2VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example2VC.swift; sourceTree = "<group>"; };
 		30BBE9422B15D50E009A15B9 /* Example3VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example3VC.swift; sourceTree = "<group>"; };
 		30BBE9442B15DA17009A15B9 /* TabManTC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabManTC.swift; sourceTree = "<group>"; };
+		30BBE9462B15DF64009A15B9 /* TabItem3VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabItem3VC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 				30BBE93E2B15D4F7009A15B9 /* Example1VC.swift */,
 				30BBE9402B15D503009A15B9 /* Example2VC.swift */,
 				30BBE9422B15D50E009A15B9 /* Example3VC.swift */,
+				30BBE9462B15DF64009A15B9 /* TabItem3VC.swift */,
 			);
 			path = ViewController;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				30BBE9432B15D50E009A15B9 /* Example3VC.swift in Sources */,
 				30BBE93F2B15D4F7009A15B9 /* Example1VC.swift in Sources */,
 				30BBE9412B15D503009A15B9 /* Example2VC.swift in Sources */,
+				30BBE9472B15DF64009A15B9 /* TabItem3VC.swift in Sources */,
 				30BBE91D2B15D2CE009A15B9 /* SceneDelegate.swift in Sources */,
 				30BBE93D2B15D4B3009A15B9 /* TabItem1VC.swift in Sources */,
 			);
